@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=7.1.3",
-        "iszsw/surface": "~1.3.0"
+        "iruska/surface": "~1.3.0"
     },
     "autoload": {
         "psr-4": {
